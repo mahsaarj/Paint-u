@@ -7,6 +7,7 @@ public class Player extends JPanel {
     private Color color;
     private int width;
     private int height;
+
     public Player(Color color, int width, int height, JPanel panel) {
         this.color = color;
         this.width = width;
